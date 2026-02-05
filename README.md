@@ -9,6 +9,7 @@ Documenting the evolution of my technical skills, starting from Python fundament
 The scripts are organized by topic to reflect the curriculum followed at Asimov Academy and other specialized tracks:
 
 * **01_Fundamentals/**
+    * 'data_aggregation_and_comparison.py': Manual implementation of sum, average, and peak detection for energy monitoring
     * `slicing_and_ranges.py`: Mastering sequence manipulation and indexing.
     * `list_comprehension_basics.py`: (Coming soon) Writing idiomatic and efficient Python.
 
