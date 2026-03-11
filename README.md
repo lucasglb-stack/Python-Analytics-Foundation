@@ -13,7 +13,10 @@ The scripts are organized by topic to reflect the curriculum followed at Asimov 
     * `02_iteration_and_data_structures.py`: Looping through energy assets and price monitoring.
     * `03_data_aggregation_and_comparison.py`: Manual implementation of aggregation metrics and system reconciliation.
     * `04_python_methods_masterclass.py`: A master guide covering Dictionaries, Strings, and Numerical precision.
-    
+    * `05_text_analyzer.py`: String manipulation and dictionary-based counting applied to smart grid documentation.
+    * `06_electrical_units_game.py`: Interactive CLI application utilizing control flow, loops, and dictionary lookups for engineering concepts.
+    * `07_energy_data_analysis.py`: Advanced list comprehensions and dictionary updates for filtering daily energy consumption data.
+
 ## 🛠 Tech Stack
 * **Language:** Python 3.x
 * **Focus:** Data Structures, SQL Integration, and Financial Automation.
