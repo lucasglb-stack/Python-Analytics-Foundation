@@ -16,6 +16,8 @@ The scripts are organized by topic to reflect the curriculum followed at Asimov 
     * `05_vowel_counter.py`: String manipulation and dictionary-based counting applied to smart grid documentation.
     * `06_electrical_units_game.py`: Interactive CLI application utilizing control flow, loops, and dictionary lookups for engineering concepts.
     * `07_energy_data_analysis.py`: Advanced list comprehensions and dictionary updates for filtering daily energy consumption data.
+    * `08_functions_and_standard_libs.py`: Comprehensive guide to custom functions, default parameters, module imports, and Python's standard libraries.
+    * `09_data_obfuscation_cipher.py`: Implementation of the Caesar Cipher algorithm, demonstrating logical indexing and basic data anonymization.
 
 ## 🛠 Tech Stack
 * **Language:** Python 3.x
